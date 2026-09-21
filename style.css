@@ -728,27 +728,7 @@ body {
 /* Centro */
 
 .mini-sunflower::before {
-    content: "";
-
-    position: absolute;
-
-    width: 18px;
-    height: 22px;
-
-    top: 50%;
-    left: 50%;
-
-    transform: translate(-50%, -50%);
-
-    border-radius: 50%;
-
-    background: radial-gradient(
-        circle,
-        #9b6500,
-        #4b2e00
-    );
-
-    z-index: 2;
+    display: none;
 }
 
 
