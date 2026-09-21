@@ -233,25 +233,35 @@ const popupMessage =
 
 const randomMessages = [
 
-    "Espero que hoy tengas un día tan bonito como tú. 💛",
+    "Espero que hoy tengas un día tan bonito como un atardecer el playa mansa. 💛",
 
-    "Que nunca te falten motivos para sonreír. 🌻",
+    "Negra que nunca te falten motivos para sonreír. 🌻",
 
-    "Un pequeño girasol para recordarte que pienso en ti.",
+    "Un pequeño girasol para recordarte que pienso en ti y en tus jojitos.",
 
-    "Gracias por formar parte de mis días. 💛",
+    "Gracias por formar parte de mis días, antes como amiga y ahora como pareja. 💛",
 
     "Si pudiera, hoy llenaría tu habitación de flores amarillas.",
 
-    "Que este pequeño detalle te saque una sonrisa. 🌻",
+    "Nunca olvide hasta donde ha llegado y todo lo que ha construido solita. 💛",
 
-    "Hay personas que iluminan los días sin siquiera intentarlo.",
+    "Que este pequeño detalle te saque una sonrisa que haga visibles tus ayuelos. 🌻",
 
-    "Este girasol encontró su camino hasta ti. 💛",
+    "Tú iluminas los días de la gente que quieres sin siquiera intentarlo.",
 
-    "Ojalá pudiera regalarte un jardín entero.",
+    "Este girasol encontró su camino hasta ti, espero yo encontrarlo tambien. 💛",
 
-    "Solo quería recordarte lo especial que eres para mí. 🌻"
+    "Ojalá pudiera regalarte mucho más, algun día lo tendremos.",
+
+    "Tu has sido la primavera 💛 que llego a mi vida para quedarse.",
+
+    "Eres tan preciosa como una puesta de sol en Playa Mansa 🌄☀️.",
+
+    "Cada momento a tu lado se siente tan calido como el sol mañanero.",
+
+    "Eres esa canción que no me canso de escuchar.",
+
+    "Solo quería recordarte lo especial ⭐ que eres para mí. 🤭🌻"
 
 ];
 
